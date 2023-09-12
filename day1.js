@@ -1,2 +1,2 @@
 console.log("new repo")
-console.log("new update")
+console.log("new update") // output statement
